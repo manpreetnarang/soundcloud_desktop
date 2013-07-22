@@ -1,4 +1,4 @@
-# TideSDK Template
+# SoundCloud Desktop App
 
 [![Dependency Status](https://gemnasium.com/danielbayerlein/tidesdk-template.png)](https://gemnasium.com/danielbayerlein/tidesdk-template)
 
