@@ -59,6 +59,7 @@ A base [TideSDK](http://www.tidesdk.org) application template with:
    Guard compiles your Haml, Sass and CoffeeScript automatically when files are
    modified. You can find the files in `source/`.
 
+2. Add your Soundcloud Client ID in `source/javascript/application.js.coffee` file.
 2. Launch TideSDK Developer.
 
 ## Information
