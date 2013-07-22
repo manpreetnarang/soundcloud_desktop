@@ -81,7 +81,3 @@ A base [TideSDK](http://www.tidesdk.org) application template with:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new [Pull Request](../../pull/new/master)
-
-## Thanks
-
-Thanks to Daniel Bayerlein for creating the stack
