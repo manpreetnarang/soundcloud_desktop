@@ -17,7 +17,7 @@ $(document).ready ->
 		notification.show()
 
 	$("ul.tracks li.stream").click ->
-		SC.initialize client_id: "e5d383de590b214e7990e2ec100b93b0"
+		SC.initialize client_id: "Your Client ID"
 		##Stop the current playing song
 		SC.stream "#{$(this).attr('data-stream-url')}",
 			autoPlay: true
